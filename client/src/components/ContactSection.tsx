@@ -160,7 +160,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="font-[var(--font-nav)] text-xs tracking-wider uppercase text-muted-foreground mb-1">Email</p>
-                  <p className="font-[var(--font-body)] text-lg text-foreground">info@velvetlensstudio.co.uk</p>
+                  <p className="font-[var(--font-body)] text-lg text-foreground">bookings@velvetlensstudio.co.uk</p>
                 </div>
               </div>
 
@@ -170,7 +170,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="font-[var(--font-nav)] text-xs tracking-wider uppercase text-muted-foreground mb-1">Phone</p>
-                  <p className="font-[var(--font-body)] text-lg text-foreground">+44 (0) 1234 567 890</p>
+                  <p className="font-[var(--font-body)] text-lg text-foreground">07345 537141</p>
                   <p className="font-[var(--font-body)] text-base text-muted-foreground">Calls & WhatsApp</p>
                 </div>
               </div>
